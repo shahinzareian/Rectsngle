@@ -5,7 +5,10 @@ public class App {
         System.out.println(rec.circumference());
         System.out.println(rec.surface());
         System.out.println(rec1.circumference());
-        System.out.println(rec1.surface());  
+        System.out.println(rec1.surface());
+        System.out.println(rec.toString());
+
+
 
 
     }
